@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "question": "ما هو Flutter؟",
+    "answer": "Flutter إطار عمل لبناء تطبيقات متعددة المنصات."
+  },
+  {
+    "id": 2,
+    "question": "هل يعمل على ويندوز؟",
+    "answer": "نعم، Flutter يدعم تطبيقات Windows Desktop."
+  }
+]
